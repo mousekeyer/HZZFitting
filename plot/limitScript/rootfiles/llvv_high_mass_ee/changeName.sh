@@ -1,0 +1,9 @@
+mv HZZllvv_300_ee.root 300.root
+mv HZZllvv_400_ee.root 400.root
+mv HZZllvv_500_ee.root 500.root
+mv HZZllvv_600_ee.root 600.root
+mv HZZllvv_700_ee.root 700.root
+mv HZZllvv_750_ee.root 750.root
+mv HZZllvv_800_ee.root 800.root
+mv HZZllvv_900_ee.root 900.root
+mv HZZllvv_1000_ee.root 1000.root

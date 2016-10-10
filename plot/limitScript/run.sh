@@ -1,0 +1,9 @@
+./get_limits run2_Asimov1_bin400_ggF /afs/cern.ch/work/n/nlu/private/HZZ_runII/HZZ_ws_runII/hzzws-master-current/combined_200_sys.root combined asimovDataFullModel 200 mu_ggF 0
+./get_limits run2_Asimov1_bin400_ggF /afs/cern.ch/work/n/nlu/private/HZZ_runII/HZZ_ws_runII/hzzws-master-current/combined_300_sys.root combined asimovDataFullModel 300 mu_ggF 0
+./get_limits run2_Asimov1_bin400_ggF /afs/cern.ch/work/n/nlu/private/HZZ_runII/HZZ_ws_runII/hzzws-master-current/combined_400_sys.root combined asimovDataFullModel 400 mu_ggF 0
+./get_limits run2_Asimov1_bin400_VBF /afs/cern.ch/work/n/nlu/private/HZZ_runII/HZZ_ws_runII/hzzws-master-current/combined_200_sys.root combined asimovDataFullModel 200 mu_VBF 0
+./get_limits run2_Asimov1_bin400_VBF /afs/cern.ch/work/n/nlu/private/HZZ_runII/HZZ_ws_runII/hzzws-master-current/combined_300_sys.root combined asimovDataFullModel 300 mu_VBF 0
+./get_limits run2_Asimov1_bin400_VBF /afs/cern.ch/work/n/nlu/private/HZZ_runII/HZZ_ws_runII/hzzws-master-current/combined_400_sys.root combined asimovDataFullModel 400 mu_VBF 0
+#./get_limits run1_ggF /afs/cern.ch/atlas/groups/HSG2/H4l_2013/Autumn/Workspaces/HighMass/v17/noMcStat_noSyst_noBdt/h4l_1D_2012_highMass_fixedMH_200_EP_v17_noMcStat_noSyst_noBdt.root combined obsData 200 mu_ggF 0
+#./get_limits v1_ggF /afs/cern.ch/work/n/nlu/private/HZZ_runII/workarea_HZZ_runII/walkthrough/HZZworkspace/walkthrough/combined_13TeV_signal_200GeV_test.root combined asimovDataFullModel 200 mu_ggF 0
+#./get_limits v1_ggF /afs/cern.ch/user/n/nlu/work/private/HZZ_runII/HZZ_ws_runII/hzzws-master-current/combined_13TeV_signal_400GeV.root combined asimovDataFullModel 400 mu_ggF 0
